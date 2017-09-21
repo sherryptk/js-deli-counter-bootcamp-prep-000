@@ -15,10 +15,10 @@ function nowServing(katzDeliLine){
   katzDeliLine.unshift()
 
   return name
-  
+
 }
 
-// Build a function nowServing. This function should return the first person in line and then remove that 
+// Build a function nowServing. This function should return the first person in line and then remove that
 // individual from the line. If there is nobody in line, it should return "There is nobody waiting to be served!"
 
 
@@ -26,5 +26,3 @@ function nowServing(katzDeliLine){
 //   array.push('Welcome, ' name[i] + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
 // }
 //return array
-
-
