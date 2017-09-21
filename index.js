@@ -1,6 +1,6 @@
 function takeANumber(katzDeliLine, name){
 
-var line = ('Welcome, ' name + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
+var line = ('Welcome, ' name + '. You are number ' + katzDeliLine+1 + ' in line.')
 
 
   return line
