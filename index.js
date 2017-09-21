@@ -12,7 +12,7 @@ function nowServing(katzDeliLine){
 
   var name = katzDeliLine[0]
 
-  katzDeliLine.unshift()
+  katzDeliLine.shift()
 
   return "Currently serving " + name + "."
 
