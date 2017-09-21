@@ -1,14 +1,14 @@
 function takeANumber(katzDeliLine, name){
 
-var array = []
+//var array = []
 
 
-  array.push('Welcome, ' name[i] + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
+  return('Welcome, ' name[i] + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
 
   // for (var i = 0; i < name.length; i++) {
   //   array.push('Welcome, ' name[i] + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
   // }
-  return array
+  //return array
 }
 
 // The function should return their position in line. And don't go being too programmer-y and give them their index.
