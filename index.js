@@ -14,7 +14,7 @@ function nowServing(katzDeliLine){
 
   katzDeliLine.unshift()
 
-  return name
+  return "Currently serving" + name + "."
 
 }
 
