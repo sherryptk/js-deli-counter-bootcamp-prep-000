@@ -11,7 +11,7 @@ function takeANumber(katzDeliLine, name){
 function nowServing(katzDeliLine){
 
 if (katzDeliLine>0) {
-  
+
 
   var name = katzDeliLine[0]
 
@@ -24,7 +24,7 @@ if (katzDeliLine>0) {
 
 }
 
-// Build a function nowServing. This function should return the first person in line and then remove that individual from 
+// Build a function nowServing. This function should return the first person in line and then remove that individual from
 // the line. If there is nobody in line, it should return "There is nobody waiting to be served!"
 
 function currentLine(katzDeliLine){
@@ -46,4 +46,3 @@ var array = []
     }
 
   }
-
