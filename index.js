@@ -1,9 +1,9 @@
 function takeANumber(katzDeliLine, name){
 
-//var array = []
+var line = ('Welcome, ' name + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
 
 
-  return('Welcome, ' name[i] + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
+  return
 
   // for (var i = 0; i < name.length; i++) {
   //   array.push('Welcome, ' name[i] + '. You are number ' + katzDeliLine[i]+1 + ' in line.')
